@@ -1,5 +1,5 @@
 # Taller Módulo 1 — Salud Mundial 
-**Autor:** Erika Yessenia Restrepo Sandoval 
+**Autor:** Kevin Alejandro Lancheros Arevalo 
 **Máster:** IA & Data Science — DevSeniorCode 
 
 ## Descripción:
